@@ -1,0 +1,12 @@
+{
+  "name": "objtalk",
+  "version": "0.1.0",
+  "description": "",
+  "author": "hinzundcode <chris-git@appucino.de>",
+  "license": "MIT",
+  "main": "./dist/index.cjs.js",
+  "browser": "./dist/index.es6.js",
+  "scripts": {
+  	"build": "node build.js"
+  }
+}
